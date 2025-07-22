@@ -40,7 +40,7 @@ To run this application, you'll need Python installed on your system, along with
 Bash
 
 git clone https://github.com/sahannanasith/Youtube-Playlist-Downloader.git 
-cd YOUR_REPO_NAME 
+cd Youtube-Playlist-Downloader.git 
 ```
 
 ## Install the required Python libraries:
@@ -61,5 +61,32 @@ python main.py
 
 📸 Screenshots 
 
+![My Logo](https://github.com/sahannanasith/Youtube-Playlist-Downloader/blob/main/GUI.PNG)
 
+## 💡 How to Use
 
+1. Paste Playlist URL: Copy and paste the URL of the YouTube playlist into the "Playlist URL" field.
+
+2. Select Download Path: Click the "Browse" button to choose where you want to save the downloaded files.
+
+3. Choose Options:
+ - Check "Download Audio Only (MP3)" if you only want the audio.
+ - Optionally, enter "Start Index" and "End Index" to download a specific range of videos (e.g., 1 to 5).
+
+4. Start Download: Click the "Start Download" button.
+
+5. Monitor Progress: The progress bar and status labels will update to show the download's progress.
+
+# 🤝 Contributing
+
+Contributions are welcome! If you have suggestions for improvements, find a bug, or want to add a new feature, please feel free to:
+* Fork the repository.
+* Create a new branch (git checkout -b feature/your-feature-name).
+* Make your changes.
+* Commit your changes (git commit -m 'Add new feature').
+* Push to the branch (git push origin feature/your-feature-name).
+* Open a Pull Request.
+
+# 📜 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
