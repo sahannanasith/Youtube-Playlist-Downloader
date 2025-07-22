@@ -77,7 +77,7 @@ python main.py
 
 5. Monitor Progress: The progress bar and status labels will update to show the download's progress.
 
-# 🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions for improvements, find a bug, or want to add a new feature, please feel free to:
 * Fork the repository.
@@ -87,6 +87,6 @@ Contributions are welcome! If you have suggestions for improvements, find a bug,
 * Push to the branch (git push origin feature/your-feature-name).
 * Open a Pull Request.
 
-# 📜 License
+## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
